@@ -217,4 +217,4 @@ O DemoQA é um ambiente público, com anúncios, overlays e variações de tempo
 
 ## Observação sobre esta entrega
 
-Os arquivos foram elaborados e revisados estaticamente. Nenhum teste, comando Maven, compilação ou navegador foi executado durante a criação desta solução.
+A solução foi validada por meio da execução dos cenários automatizados, com geração de relatório Cucumber em HTML e JSON.
